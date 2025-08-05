@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Monstera Deliciosa",
+    "health": "Excellent",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "lastWatered": "2 days ago",
+    "nextWatering": "Tomorrow"
+  },
+  {
+    "id": 2,
+    "name": "Snake Plant",
+    "health": "Good",
+    "image": "https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=400&h=300&fit=crop",
+    "lastWatered": "1 week ago",
+    "nextWatering": "In 3 days"
+  },
+  {
+    "id": 3,
+    "name": "Fiddle Leaf Fig",
+    "health": "Fair",
+    "image": "https://images.unsplash.com/photo-1463320726281-696a485928c7?w=400&h=300&fit=crop",
+    "lastWatered": "3 days ago",
+    "nextWatering": "Today"
+  },
+  {
+    "id": 4,
+    "name": "Peace Lily",
+    "health": "Good",
+    "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400&h=300&fit=crop",
+    "lastWatered": "1 day ago",
+    "nextWatering": "In 2 days"
+  },
+  {
+    "id": 5,
+    "name": "Rubber Plant",
+    "health": "Excellent",
+    "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=400&h=300&fit=crop",
+    "lastWatered": "4 days ago",
+    "nextWatering": "Tomorrow"
+  },
+  {
+    "id": 6,
+    "name": "Spider Plant",
+    "health": "Poor",
+    "image": "https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=400&h=300&fit=crop",
+    "lastWatered": "1 week ago",
+    "nextWatering": "Today"
+  }
+]
